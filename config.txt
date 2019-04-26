@@ -1,0 +1,14 @@
+resource/ocdm/aeo.owl resource/ocdm/pun_aeo.owl
+resource/ocdm/cet.owl resource/ocdm/pun_cet.owl
+resource/ocdm/chm3o.owl resource/ocdm/pun_chm3o.owl
+resource/ocdm/chmo.owl resource/ocdm/pun_chmo.owl
+resource/ocdm/chmmo.owl resource/ocdm/pun_chmmo.owl
+resource/ocdm/chzmo.owl resource/ocdm/pun_chzmo.owl
+resource/ocdm/cho.owl resource/ocdm/pun_cho.owl
+resource/ocdm/cmmo.owl resource/ocdm/pun_cmmo.owl
+resource/ocdm/czmo.owl resource/ocdm/pun_czmo.owl
+resource/ocdm/cmo.owl resource/ocdm/pun_cmo.owl
+resource/ocdm/czo.owl resource/ocdm/pun_czo.owl
+resource/ocdm/ocdm.owl resource/ocdm/pun_ocdm.owl
+resource/ocdm/chzmo.owl resource/ocdm/pun_chzmo.owl
+resource/ocdm/chzmmo.owl resource/ocdm/pun_chzmmo.owl
